@@ -302,7 +302,7 @@ const Roadmap = () => {
             method: "POST",
             headers: {
               Authorization:
-                "Bearer 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",
+                "your own api key",
               "Content-Type": "application/json",
             },
             body: JSON.stringify({
